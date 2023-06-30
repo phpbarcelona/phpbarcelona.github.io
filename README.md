@@ -1,4 +1,1 @@
-phpbarcelona.github.io
-======================
-
-phpbarcelona.org public website
+phpbarcelona.org website
